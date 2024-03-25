@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimatedGame", "AnimatedGame\AnimatedGame.csproj", "{2774175B-F8E2-46C6-A10B-94A46F7B6CBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2774175B-F8E2-46C6-A10B-94A46F7B6CBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2774175B-F8E2-46C6-A10B-94A46F7B6CBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2774175B-F8E2-46C6-A10B-94A46F7B6CBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2774175B-F8E2-46C6-A10B-94A46F7B6CBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A53E4DE6-607C-4FFC-A250-342301FC40F6}
+	EndGlobalSection
+EndGlobal
